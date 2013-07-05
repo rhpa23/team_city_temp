@@ -1,0 +1,7 @@
+#extensions
+.classpath
+.project
+
+bin/
+AndroidPrint/gen/
+AndroidPrint/genjni
